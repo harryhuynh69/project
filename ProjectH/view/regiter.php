@@ -1,7 +1,7 @@
 <div class="login">
     <div class="main-login">
         <form action="index.php?act=regiter" method="POST">
-            <h3>Đăng kí</h3>
+            <h3>Đăng Ký</h3>
             <input type="text" id="email" name="name" placeholder="Họ và tên">
             <input type="text" id="mobile" name="mobile" placeholder="Số điện thoại">
             <input type="email" id="email" name="email" placeholder="email">
